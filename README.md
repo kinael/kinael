@@ -5,7 +5,7 @@
 <h5 align="center">" I "</h5>
 <h5 align="center">" WILL "</h5>
 <h5 align="center">" DIE "</h5>
-<h5 align="center">" UNCONQUERED "</h5>
+<h5 align="center">" UNCONQUERED. "</h5>
 
 <br>
 
