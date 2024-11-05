@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center" style="font-family: Marker Felt, fantasy " >" U N C O N Q U E R E D "</h3>
+<h3 align="center" style="font-family: 'Marker Felt', fantasy;">U N C O N Q U E R E D</h3>
 
 ###
 
