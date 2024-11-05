@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center" style="font-family: 'Arial', fantasy;">U N C O N Q U E R E D</h3>
+# ✨ **U N C O N Q U E R E D** ✨
 
 ###
 
