@@ -2,8 +2,11 @@
 
 ###
 
-<h5 align="center"><span style="color: red;">" U N C O N Q U E R E D "</span></h5>
-<h5 align="center" style="color: red;">" U N C O N Q U E R E D "</h5>
+<h5 align="center">" I "</h5>
+<h5 align="center">" WILL "</h5>
+<h5 align="center">" DIE "</h5>
+<h5 align="center">" UNCONQUERED "</h5>
+
 <br>
 
 ###
