@@ -2,7 +2,7 @@
 
 ###
 
-# ✨ **U N C O N Q U E R E D** ✨
+### **U N C O N Q U E R E D**
 
 ###
 
