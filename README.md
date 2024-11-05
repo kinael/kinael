@@ -33,11 +33,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/lorenzo-wrublewski" target="_blank" style="text-decoration: none; margin: 0;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="border: none; margin: 0; padding: 0;" />
-  </a>
-  <a href="https://discord.com/users/kinaelzin" target="_blank" style="text-decoration: none; margin: 0;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="border: none; margin: 0; padding: 0;" />
-  </a>
-  <a href="https://www.instagram.com/lowrub" target="_blank" style="text-decoration: none; margin: 0;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="border: none; margin: 0; padding: 0;" />
   </a>
 </div>
