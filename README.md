@@ -7,15 +7,11 @@
 <h5 align="center">" DIE "</h5>
 <h5 align="center">" UNCONQUERED. "</h5>
 
-<br>
-
 ###
 
 <h6 align="center">Linkedin: Lorenzo Wrublewski</h5>
 <h6 align="center">Instagram: @lowrub</h5>
 <h6 align="center">Discord: kinaelzin</h5>
-
-<br>
 
 ###
 
@@ -40,14 +36,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div> 
-<br>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<br>
 
 ###
 
