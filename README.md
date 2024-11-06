@@ -5,7 +5,6 @@
 <h6 align="center">Linkedin: Lorenzo Wrublewski</h5>
 <h6 align="center">Instagram: @lowrub</h5>
 <h6 align="center">Discord: kinaelzin</h5>
-<br>
 <h5 align="center">" I will die unconquered. "</h5>
 <br>
 
