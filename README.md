@@ -11,6 +11,14 @@
 
 ###
 
+<h6 align="center">" Instagram: @lowrub "</h5>
+<h6 align="center">" Linkedin: Lorenzo Wrublewski "</h5>
+<h6 align="center">" Discord: kinaelzin "</h5>
+
+<br>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
