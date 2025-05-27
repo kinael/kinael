@@ -1,4 +1,4 @@
-<h1 align="center">✨💸 K I N A E L 💸✨</h1>
+<h1 align="center">✨ K I N A E L ✨</h1>
 
 ###
 
